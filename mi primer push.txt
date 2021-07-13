@@ -1,0 +1,3 @@
+creamos la rama hotfix del repo clonado
+usamos code . para acceder al vscode
+ahora creamos un nuevo archivo y guardamos para mandar el primer push
